@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1.",
+    "Name": "Samir",
+    "Description": "Samir has always wanted to build routes and help people. He has a lot of experience in this.",
+    "TypeOFAgent": "operator",
+    "image": "samir.jpg"
+  },
+  {
+    "id": 2,
+    "Name": "Nikita",
+    "Description": "Nikita always wanted to be a tour operator and work with people",
+    "TypeOFAgent": "operator",
+    "image": "nikita.jpg"
+  },
+  {
+    "id": 3,
+    "Name": "Elena",
+    "Description": "Elena wants to become a director",
+    "TypeOFAgent": "director",
+    "image": "elenadirector.jpg"
+  },
+  {
+    "id": 4,
+    "Name": "Anton",
+    "Description": "Anton wants to be a deputy director",
+    "TypeOFAgent": "deputy director",
+    "image": "antonoperator.jpg"
+  },
+  {
+    "id": 5,
+    "Name": "Egor",
+    "Description": "Egor wants to look for tickets, help to travel",
+    "TypeOFAgent": "guide",
+    "image": "egortyroper.jpg"
+  }
+]
